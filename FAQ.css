@@ -1,0 +1,50 @@
+body{
+  padding-top: 15px;
+}
+
+
+.main-body{
+  background-image: url(image/back_hos.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 90% auto;
+  height: calc(100vh - 100px);
+  background-size: cover;
+}
+
+.head h1{
+
+  padding-top: 50px;
+  font-weight: 600px;
+  text-shadow: 2px 2px 8px #9bfa02;
+  color: #177812;
+}
+
+.bdy{
+  margin-left: 10px;
+}
+
+.qstn{
+  font-size: 20px;
+
+}
+
+.ans{
+font-size: 15px;
+
+}
+
+
+
+.footer{
+  background-color: #252121;
+}
+.row{
+  margin-top: 16px;
+}
+.col-md-3{
+  color:white;
+}
+.col-md-5{
+  color: #1E44C0;
+}

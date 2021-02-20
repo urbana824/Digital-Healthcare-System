@@ -1,0 +1,74 @@
+.mainbody{
+  background-image: url(image/back_hos.jpg);
+  width: 100%;
+  height: calc(100vh - 106px);
+}
+
+#sidebar{
+  height: 460px;
+}
+
+#bttn{
+  margin-top: 25px;
+  margin-left: 800px;
+}
+
+#option1{
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+  line-height: 50px;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+#option2{
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+  line-height: 50px;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+#option3{
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+  line-height: 50px;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+#option4{
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+  line-height: 50px;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+#option5{
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+  line-height: 50px;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+.footer{
+  /*margin-top: 20px;*/
+  background-color: #252121;
+  margin-top: 30px;
+}
+.row{
+  margin-top: 16px;
+}
+.col-md-3{
+  color:white;
+}
+.col-md-5{
+  color: #1E44C0;
+}

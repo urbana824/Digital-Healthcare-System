@@ -1,0 +1,60 @@
+body{
+  padding-top: 15px;
+}
+
+
+.main-body{
+  background-image: url(image/bac_hos.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 90% auto;
+  height: calc(100vh - 100px);
+  background-size: cover;
+  margin-top: 100px;
+
+}
+
+.tag-1{
+  color: #733ec2;
+  font-weight: 600;
+  font-size: 35px;
+  margin-left: 70px;
+}
+.defination{
+  color:#0f7a38;
+  font-weight: 400;
+  font-size: 17px;
+  margin-left: 10px;
+
+}
+
+.corona{
+  height: 200px;
+  width: 400px;
+  margin-left: 90px;
+}
+#firsth2{
+  font-weight: 600;
+
+}
+.covid{
+  /*background-color: #86ccd1;*/
+  margin-left: 30px;
+}
+.cov{
+  font-weight: 400;
+  font-size: 17px;
+}
+.footer{
+  background-color: #252121;
+  margin-top: 1400px;
+}
+.row{
+  margin-top: 16px;
+}
+.col-md-3{
+  color:white;
+}
+.col-md-5{
+  color: #1E44C0;
+}

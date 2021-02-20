@@ -1,0 +1,32 @@
+body{
+  background-image: url(image/back_hos.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 100%;
+  display: table;
+  background-size: cover;
+  width: 100%;
+  height: calc(100vh - 0px);
+}
+
+.text{
+  margin-left: 450px;
+  margin-top: 100px;
+
+}
+#msg{
+  margin-left: 350px;
+}
+
+#em{
+  margin-left: 57px;
+  margin-top: 50px;
+}
+#email{
+  margin-left: 50px;
+  width: 400px;
+}
+
+#b1{
+  margin-left: 450px;
+}

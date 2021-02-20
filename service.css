@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Allura|Josefin+Sans');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #9370DB;
+  font-family: 'Josefin Sans', sans-serif;
+  background-image:url(./Image/whitedoc.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+.wrapper{
+  margin-top: 10%;
+}
+
+.wrapper h1{
+  font-family: 'Allura', cursive;
+  font-size: 52px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.service{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  text-align: center;
+  /*flex-wrap: wrap;*/
+}
+
+.service .service_number{
+  background: #fff;
+  margin: 5px;
+  margin-bottom: 50px;
+  width: 300px;
+  padding: 18px;
+  line-height: 20px;
+  color: #8e8b8b;
+  position: relative;
+}
+
+.service .service_number h3{
+  color:#4B0082;
+  font-size: 26px;
+  margin-top: 50px;
+}
+
+.service .service_number .service_img{
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 100px;
+  background: #fff;
+}
+
+.service .service_number .service_img img{
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
+
+.footer{
+  background-color: #252121;
+}
+.row{
+  margin-top: 16px;
+}
+.col-md-3{
+  color:white;
+}
+.col-md-5{
+  color: #1E44C0;
+}

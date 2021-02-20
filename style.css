@@ -1,0 +1,61 @@
+body{
+  padding-top: 55px;
+}
+
+
+.main-body{
+  background-image: url(image/hos8.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 90% auto;
+  height: calc(100vh - 80px);
+  background-size: cover;
+  animation: slider 35s infinite linear;
+}
+@keyframes slider {
+  0%{
+    background-image: url(image/hos8.jpeg);
+  }
+  30%{
+    background-image: url(image/hos9.jpeg);
+  }
+  60%{
+    background-image: url(image/hos10.jpeg);
+  }
+  85%{
+    background-image: url(image/hos11.jpeg);
+  }
+
+}
+
+.main-body .text{
+  display: table-cell;
+  vertical-align: middle;
+}
+.main-body h2{
+  font-weight: bold;
+  color: blue;
+  text-shadow: 2px 2px 8px black;
+  text-align: center;
+  margin-top: 300px;
+  margin-left: 40px;
+  line-height: 2px;
+}
+.main-body h4{
+  color: red;
+  text-shadow: 2px 2px 2px yellow;
+  margin-left: 70px;
+  line-height: 10px;
+}
+.footer{
+  background-color: #252121;
+}
+.row{
+  margin-top: 16px;
+}
+.col-md-3{
+  color:white;
+}
+.col-md-5{
+  color: #1E44C0;
+}

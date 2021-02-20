@@ -1,0 +1,72 @@
+body{
+  background-image: url(image/hos14.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 100%;
+  display: table;
+  background-size: cover;
+  width: 100%;
+  height: calc(100vh - 0px);
+}
+
+.sign{
+  width: 400px;
+  height: 570px;
+  margin-left: 800px;
+  margin-top: 10px;
+  box-shadow: 2px 2px 10px black;
+}
+.text2{
+  width: 200px;
+  height: 50px;
+  margin-left: 670px;
+  margin-top: 70px;
+}
+
+#alert2{
+
+}
+
+.text2 h1{
+  font-size: 30px;
+  text-shadow: 1px 1px 6px black;
+}
+
+#name1{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#age1{
+  margin-left: 10px;
+}
+#phn{
+  margin-left: 10px;
+}
+#pass1{
+  margin-left: 10px;
+}
+
+#em1{
+  margin-left: 10px;
+}
+
+#bttn{
+  width: 400px;
+}
+
+.text1{
+  margin-left: 800px;
+  margin-top: 15px;
+
+}
+
+#p1{
+  font-size: 15px;
+  font-weight: 150;
+
+}
+
+#a1{
+  color: red;
+}
