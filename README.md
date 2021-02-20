@@ -1,1 +1,2 @@
 # Digital-Healthcare-System
+This is a website which can be used by hospitals to provide primary treatment to patients. The patients would have to signup, write down there issues and finally choose a doctor to consult. They can chat with their respective doctors and set up video call meetings. The medicine prescription is delivered digitally, and there is a special Covid-19 section as well, where a doctor can request for a covid-19 test.The patients can send a medicine deilvery request, the payment is done using other platforms such as Rocket, BKash etc. 
